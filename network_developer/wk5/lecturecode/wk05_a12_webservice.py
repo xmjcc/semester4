@@ -1,7 +1,7 @@
 '''
 Created by Narendra for COMP216 June 2021
 wk05_a12_webservice_get.py
-
+4444
 Send a GET request to a webservices
 The server returns json document with entries like :
   "1": {

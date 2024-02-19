@@ -1,0 +1,8 @@
+G:\My Drive\study\centenial\semester4\program2\code\Test_solution\Person_test\obj\Debug\Person_test.csproj.AssemblyReference.cache
+G:\My Drive\study\centenial\semester4\program2\code\Test_solution\Person_test\obj\Debug\Person_test.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\study\centenial\semester4\program2\code\Test_solution\Person_test\obj\Debug\Person_test.csproj.CoreCompileInputs.cache
+G:\My Drive\study\centenial\semester4\program2\code\Test_solution\Person_test\bin\Debug\Person_test.exe.config
+G:\My Drive\study\centenial\semester4\program2\code\Test_solution\Person_test\bin\Debug\Person_test.exe
+G:\My Drive\study\centenial\semester4\program2\code\Test_solution\Person_test\bin\Debug\Person_test.pdb
+G:\My Drive\study\centenial\semester4\program2\code\Test_solution\Person_test\obj\Debug\Person_test.exe
+G:\My Drive\study\centenial\semester4\program2\code\Test_solution\Person_test\obj\Debug\Person_test.pdb

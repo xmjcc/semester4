@@ -1,0 +1,8 @@
+G:\My Drive\study\centenial\semester4\program2\code\lab9\bin\Debug\lab9.exe.config
+G:\My Drive\study\centenial\semester4\program2\code\lab9\bin\Debug\lab9.exe
+G:\My Drive\study\centenial\semester4\program2\code\lab9\bin\Debug\lab9.pdb
+G:\My Drive\study\centenial\semester4\program2\code\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+G:\My Drive\study\centenial\semester4\program2\code\lab9\obj\Debug\lab9.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\study\centenial\semester4\program2\code\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+G:\My Drive\study\centenial\semester4\program2\code\lab9\obj\Debug\lab9.exe
+G:\My Drive\study\centenial\semester4\program2\code\lab9\obj\Debug\lab9.pdb

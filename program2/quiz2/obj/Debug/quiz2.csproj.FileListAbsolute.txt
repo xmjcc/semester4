@@ -1,0 +1,8 @@
+G:\My Drive\study\centenial\semester4\program2\code\quiz2\bin\Debug\quiz2.exe.config
+G:\My Drive\study\centenial\semester4\program2\code\quiz2\bin\Debug\quiz2.exe
+G:\My Drive\study\centenial\semester4\program2\code\quiz2\bin\Debug\quiz2.pdb
+G:\My Drive\study\centenial\semester4\program2\code\quiz2\obj\Debug\quiz2.csproj.AssemblyReference.cache
+G:\My Drive\study\centenial\semester4\program2\code\quiz2\obj\Debug\quiz2.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\study\centenial\semester4\program2\code\quiz2\obj\Debug\quiz2.csproj.CoreCompileInputs.cache
+G:\My Drive\study\centenial\semester4\program2\code\quiz2\obj\Debug\quiz2.exe
+G:\My Drive\study\centenial\semester4\program2\code\quiz2\obj\Debug\quiz2.pdb

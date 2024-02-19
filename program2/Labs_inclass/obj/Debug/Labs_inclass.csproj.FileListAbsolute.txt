@@ -1,0 +1,16 @@
+G:\My Drive\study\centenial\semester4\program2\Labs_inclass\obj\Debug\Labs_inclass.csproj.AssemblyReference.cache
+G:\My Drive\study\centenial\semester4\program2\Labs_inclass\obj\Debug\Labs_inclass.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\study\centenial\semester4\program2\Labs_inclass\obj\Debug\Labs_inclass.csproj.CoreCompileInputs.cache
+G:\My Drive\study\centenial\semester4\program2\Labs_inclass\bin\Debug\Labs_inclass.exe.config
+G:\My Drive\study\centenial\semester4\program2\Labs_inclass\bin\Debug\Labs_inclass.exe
+G:\My Drive\study\centenial\semester4\program2\Labs_inclass\bin\Debug\Labs_inclass.pdb
+G:\My Drive\study\centenial\semester4\program2\Labs_inclass\obj\Debug\Labs_inclass.exe
+G:\My Drive\study\centenial\semester4\program2\Labs_inclass\obj\Debug\Labs_inclass.pdb
+G:\My Drive\study\centenial\semester4\program2\code\Labs_inclass\bin\Debug\Labs_inclass.exe.config
+G:\My Drive\study\centenial\semester4\program2\code\Labs_inclass\bin\Debug\Labs_inclass.exe
+G:\My Drive\study\centenial\semester4\program2\code\Labs_inclass\bin\Debug\Labs_inclass.pdb
+G:\My Drive\study\centenial\semester4\program2\code\Labs_inclass\obj\Debug\Labs_inclass.csproj.AssemblyReference.cache
+G:\My Drive\study\centenial\semester4\program2\code\Labs_inclass\obj\Debug\Labs_inclass.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\study\centenial\semester4\program2\code\Labs_inclass\obj\Debug\Labs_inclass.csproj.CoreCompileInputs.cache
+G:\My Drive\study\centenial\semester4\program2\code\Labs_inclass\obj\Debug\Labs_inclass.exe
+G:\My Drive\study\centenial\semester4\program2\code\Labs_inclass\obj\Debug\Labs_inclass.pdb

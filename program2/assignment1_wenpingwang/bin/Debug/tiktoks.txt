@@ -1,0 +1,51 @@
+500000	abhi	20	group	covid
+500001	sameer	19	group	covid
+500002	joan	24	group	summer heat
+500003	ajay	15	world	bars
+500004	carl	21	world	park
+500005	hema	22	special	park
+500006	jerry	20	group	bars
+500007	jen	20	world	covid
+500008	abi	14	group	park
+500009	dave	19	special	summer
+500010	fred	16	group	covid
+500011	dave	24	group	summer heat
+500012	abby	20	world	bars
+500013	prataap	21	world	park
+500014	brad	18	special	park
+500015	rahul	19	group	bars
+500016	abhi	17	world	covid
+500017	suresh	19	group	covid
+500018	shivani	24	group	summer heat
+500019	abram	15	world	bars
+500020	chandra	21	world	park
+500021	rishi	22	special	park
+500022	ranbir	20	group	bars
+500023	vinod	20	world	covid
+500024	rahul	14	group	park
+500025	bindu	19	special	summer
+500026	yasmin	16	group	covid
+500027	preeti	24	group	summer heat
+500028	sanjay	20	world	bars
+500029	hema	21	world	park
+500030	rishi	18	special	park
+500031	joan	24	group	summer heat
+500032	ajay	15	world	bars
+500033	abhi	21	world	social distancing
+500034	shivani	22	special	park
+500035	jerry	20	group	covid
+500036	jen	20	world	covid
+500037	abi	14	group	park
+500038	dave	19	special	music
+500039	fred	16	group	covid
+500040	ajay	24	group	concert
+500041	abby	20	world	bars
+500042	prataap	21	world	toronto
+500043	brad	18	special	park
+500044	rahul	19	group	college
+500045	abhi	17	world	covid
+500046	suresh	19	group	summer
+500047	shivani	24	group	summer heat
+500048	abram	15	world	bars
+500049	ranbir	21	world	park
+500050	rishi	22	special	covid

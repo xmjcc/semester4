@@ -1,0 +1,8 @@
+G:\My Drive\study\centenial\semester4\program2\code\lab8_complex\bin\Debug\lab8_complex.exe.config
+G:\My Drive\study\centenial\semester4\program2\code\lab8_complex\bin\Debug\lab8_complex.exe
+G:\My Drive\study\centenial\semester4\program2\code\lab8_complex\bin\Debug\lab8_complex.pdb
+G:\My Drive\study\centenial\semester4\program2\code\lab8_complex\obj\Debug\lab8_complex.csproj.AssemblyReference.cache
+G:\My Drive\study\centenial\semester4\program2\code\lab8_complex\obj\Debug\lab8_complex.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\study\centenial\semester4\program2\code\lab8_complex\obj\Debug\lab8_complex.csproj.CoreCompileInputs.cache
+G:\My Drive\study\centenial\semester4\program2\code\lab8_complex\obj\Debug\lab8_complex.exe
+G:\My Drive\study\centenial\semester4\program2\code\lab8_complex\obj\Debug\lab8_complex.pdb

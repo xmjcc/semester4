@@ -1,0 +1,8 @@
+G:\My Drive\study\centenial\semester4\program2\code\assignment1_wenpingwang\bin\Debug\assignment1_wenpingwang.exe.config
+G:\My Drive\study\centenial\semester4\program2\code\assignment1_wenpingwang\bin\Debug\assignment1_wenpingwang.exe
+G:\My Drive\study\centenial\semester4\program2\code\assignment1_wenpingwang\bin\Debug\assignment1_wenpingwang.pdb
+G:\My Drive\study\centenial\semester4\program2\code\assignment1_wenpingwang\obj\Debug\assignment1_wenpingwang.csproj.AssemblyReference.cache
+G:\My Drive\study\centenial\semester4\program2\code\assignment1_wenpingwang\obj\Debug\assignment1_wenpingwang.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\study\centenial\semester4\program2\code\assignment1_wenpingwang\obj\Debug\assignment1_wenpingwang.csproj.CoreCompileInputs.cache
+G:\My Drive\study\centenial\semester4\program2\code\assignment1_wenpingwang\obj\Debug\assignment1_wenpingwang.exe
+G:\My Drive\study\centenial\semester4\program2\code\assignment1_wenpingwang\obj\Debug\assignment1_wenpingwang.pdb
